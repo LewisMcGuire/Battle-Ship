@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Grid
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Grid\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Grid()
+comment2.params=currentPlayer
+comment2.target=void\ displayGrid(boolean)
+comment3.params=currentPlayer\ panel
+comment3.target=javax.swing.JButton[][]\ createGridGUI(boolean,\ javax.swing.JPanel)
+comment4.params=currentPlayer\ rows
+comment4.target=void\ updateGridGUI(boolean,\ javax.swing.JButton[][])
+comment5.params=message\ xPos\ yPos\ length\ panel
+comment5.target=javax.swing.JLabel\ createLabel(java.lang.String,\ int,\ int,\ int,\ javax.swing.JPanel)
+comment6.params=message\ xPos\ yPos\ panel
+comment6.target=javax.swing.JButton\ createButton(java.lang.String,\ int,\ int,\ javax.swing.JPanel)
+comment7.params=currentPlayer\ row
+comment7.target=void\ displayOneLine(boolean,\ int)
+comment8.params=currentPlayer\ row\ panel
+comment8.target=javax.swing.JButton[]\ displayOneLineGUI(boolean,\ int,\ javax.swing.JPanel)
+comment9.params=
+comment9.target=GridSpace[]\ getPlayerGrid()
+numComments=10
